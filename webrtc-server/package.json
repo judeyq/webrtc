@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "ZhangYuhang",
+  "author": "HeyJudeYQ",
   "license": "ISC",
   "dependencies": {
     "koa": "^2.13.0",
